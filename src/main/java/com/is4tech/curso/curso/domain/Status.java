@@ -1,4 +1,4 @@
-package com.is4tech.curso.curso.domain.bo;
+package com.is4tech.curso.curso.domain;
 
 import javax.persistence.Basic;
 import javax.persistence.Column;
